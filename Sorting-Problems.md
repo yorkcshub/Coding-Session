@@ -30,9 +30,9 @@ return output
 
 ## Some practice problems
 
-###[Gravity Flip - Very Easy](http://codeforces.com/problemset/problem/405/A)
+[Gravity Flip - Very Easy](http://codeforces.com/problemset/problem/405/A)
 
-###[Sale - Very Easy](http://codeforces.com/problemset/problem/34/B)
+[Sale - Very Easy](http://codeforces.com/problemset/problem/34/B)
 
 Once Bob got to a sale of old TV sets. There were n TV sets at that sale. TV set with index i costs ai bellars. Some TV sets have a negative price — their owners are ready to pay Bob if he buys their useless apparatus. Bob can «buy» any TV sets he wants. Though he's very strong, Bob can carry at most m TV sets, and he has no desire to go to the sale for the second time. Please, help Bob find out the maximum sum of money that he can earn.
 
@@ -59,7 +59,7 @@ __Sample Output 2:__
 7
 ```
 
-###[Game - Easy](http://codeforces.com/problemset/problem/984/A)
+[Game - Easy](http://codeforces.com/problemset/problem/984/A)
 
 Two players play a game.
 
@@ -96,7 +96,7 @@ __Sample Output 2:__
 2
 ```
 
-###[Twins - Easy](http://codeforces.com/problemset/problem/160/A)
+[Twins - Easy](http://codeforces.com/problemset/problem/160/A)
 
 Imagine that you have a twin brother or sister. Having another person that looks exactly like you seems very unusual. It's hard to say if having something of an alter ego is good or bad. And if you do have a twin, then you very well know what it's like.
 
@@ -127,7 +127,7 @@ __Sample Output 2:__
 2
 ```
 
-###[DVDs - Medium](https://open.kattis.com/problems/dvds)
+[DVDs - Medium](https://open.kattis.com/problems/dvds)
 
 Dezider is very unhappy as he just discovered that his DVDs got unsorted. Dezider is (occasionally) very organized and during one of his get-organized spells he numbered the DVDs __from 1 to n__. He keeps the DVDs in a tall stack and he wants to have them sorted in increasing order by their number, with 1 at the bottom and n at the top of the stack. The trouble is that his space allows him to perform only one type of sorting operation: take a DVD, pull it out of the stack while the DVDs above it fall down by one position, then place it at the top of the stack. What is the smallest number of such operations he needs to do to sort the DVD stack?
 
@@ -157,7 +157,7 @@ __Sample OutputL__
 
 _This problem appeared in York University 2018 First ACM Contest._
 
-###[Are You Listening? - Medium](https://open.kattis.com/problems/areyoulistening)
+[Are You Listening? - Medium](https://open.kattis.com/problems/areyoulistening)
 
 You’re a top government spy currently at a secret location behind enemy lines (oooh....exciting!). You have a communication device that allows you to stay in contact with various other operatives that you work with. The broadcast range of the device is adjustable and ideally you would set it at its maximum value to be able to reach the largest number of operatives. Unfortunately, the enemy is not stupid and has a set of listening devices that can detect your signal. These listening devices each have a fixed range (which can vary from device to device), and in order to pinpoint your location the enemy must detect you on at least three of their listening devices. Therefore, you are safe as long as you set your broadcast range so that at most two listening devices can detect you. A listening device can detect you if your broadcast range and its listening range touch at more than one point.
 
