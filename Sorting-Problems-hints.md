@@ -27,7 +27,3 @@ Notice that Bob get paid for TV set with negative amount
 - Thinking about the strategy that Dezider should use.
 - Imagine a indexed array. What is the position of each number in sorted array from (1 -> n)?
 - What do we need to count here?
-
-### Are you listening?
-- Remind how to find the safe distance so that one circle doesn't touch the other?
-- How to maximize safe area?
